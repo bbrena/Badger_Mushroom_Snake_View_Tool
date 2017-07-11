@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BadgerMushroomSnakeViewTool::Renderer.copyright 'Code To Success', 'All rights reserved'
+```
 
 ## Development
 
