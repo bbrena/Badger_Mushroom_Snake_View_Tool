@@ -1,4 +1,4 @@
-# BadgerMushroomSnakeViewTool
+# Badger Mushroom Snake View Tool
 
 > Various view specific methods for applications I use.
 
