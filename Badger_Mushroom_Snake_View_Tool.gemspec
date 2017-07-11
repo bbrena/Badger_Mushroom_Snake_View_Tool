@@ -6,8 +6,8 @@ require "Badger_Mushroom_Snake_View_Tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "Badger_Mushroom_Snake_View_Tool"
   spec.version       = BadgerMushroomSnakeViewTool::VERSION
-  spec.authors       = ["Jordan Hudgens"]
-  spec.email         = ["jordan@devcamp.com"]
+  spec.authors       = ["Brena A."]
+  spec.email         = ["banz3398@csddocs.org"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
